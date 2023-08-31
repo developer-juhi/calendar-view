@@ -8,7 +8,7 @@
 2. run `npm start`
 
 
-<img src="https://raw.githubusercontent.com/KishanV/Squre-Mate-Game-Stage-Editor/main/prevImg/satus.png"  />
+<img src="https://raw.githubusercontent.com/KishanV/Squre-Mate-Game-Stage-Editor/master/prevImg/satus.png"  />
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/132571209/263942550-4cb1ea42-e99b-4dd9-a138-78f8ac607001.png"  />
 
 
