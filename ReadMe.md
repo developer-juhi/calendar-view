@@ -1,18 +1,12 @@
 
-Juhi Kothwala 
-1. Node Js Setup 
-npm Install 
-npm run start
+## Node Js Setup 
+1. run `npm install` 
+2. run `npm run start`
 
-2. React Js 
-npm Install 
-npm start
+## React Js 
+1. run `npm install`
+2. run `npm start`
 
-Preview Is Ready
-
-
-
-Thank You 
 
 <img src="https://raw.githubusercontent.com/KishanV/Squre-Mate-Game-Stage-Editor/master/prevImg/satus.png"  />
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/132571209/263942550-4cb1ea42-e99b-4dd9-a138-78f8ac607001.png"  />
